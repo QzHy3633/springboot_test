@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.southwind.springboot_test.repository.BookRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 13.232 s <<< FAILURE! - in com.southwind.springboot_test.repository.BookRepositoryTest
+delete  Time elapsed: 0.509 s  <<< ERROR!
+org.springframework.dao.EmptyResultDataAccessException: No class com.southwind.springboot_test.entity.Book entity with id 122 exists!
+	at com.southwind.springboot_test.repository.BookRepositoryTest.delete(BookRepositoryTest.java:47)
+

@@ -1,0 +1,5 @@
+com\southwind\springboot_test\entity\Book.class
+com\southwind\springboot_test\SpringbootTestApplication.class
+com\southwind\springboot_test\config\CorsConfig.class
+com\southwind\springboot_test\controller\BookHandler.class
+com\southwind\springboot_test\repository\BookRepository.class
